@@ -1,4 +1,14 @@
-# Linked Lists
+# <img src="https://cloud.githubusercontent.com/assets/7833470/10423298/ea833a68-7079-11e5-84f8-0a925ab96893.png" width="60"> Linked Lists
+
+| Objectives |
+| :--- |
+| Explain the components necessary for a functional linked list |
+| Use a linked list to store and retrieve data |
+| Describe the difference between Javascript and lower-level language linked lists |
+| Discuss the advantages and disadvantages of a singly linked list |
+
+### Motivation (Why?)
+Linked lists are the base data structure that many more complex data structures use.  If one has a solid understanding of linked lists then stacks, queues, hashtables, and binary trees should be relatively easy to learn and synthesize.
 
 
 ## What are linked lists?

@@ -24,7 +24,7 @@ The very last node of a linked list, called the tail, has a null next node becau
 
 ## Singly Linked Lists and Arrays
 
-####So... liked lists are like arrays?
+#### So... liked lists are like arrays?
 
 A little! But not 100%.  Let's step back and take a closer look at arrays. Their true nature may surprise you!
 

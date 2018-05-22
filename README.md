@@ -40,7 +40,7 @@ On the other hand, your computer needs to know from the start exactly how many b
 
 **But wait! You've never had to worry about array size...**
 
-Totally! In lower level computer programming languages like C, you *would* have to. JavaScript and Ruby handle array sizing and resizing for you efficiently. That's one of the reasons we love higher level programming languages.
+Totally! In lower level computer programming languages like C, you *would* have to. JavaScript and Python handle array sizing and resizing for you efficiently. That's one of the reasons we love higher level programming languages.
 
 But! in interviews it's good to know what's happening in the background, because that's the biggest difference between arrays and linked lists.
 
